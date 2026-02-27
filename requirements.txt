@@ -1,0 +1,5 @@
+streamlit
+pillow
+pytesseract
+deep-translator
+pyttsx3

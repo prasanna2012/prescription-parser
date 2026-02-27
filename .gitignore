@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.egg-info/
+*.egg
+.env
+.venv/
+venv/
+*.log
+
+# Streamlit / project assets
+.cache/
+assets/
+
+# IDEs
+.vscode/
+.idea/
